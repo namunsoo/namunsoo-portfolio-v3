@@ -1,0 +1,45 @@
+#computer {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2F2F2F;
+    /* border: #03001C solid 14px; */
+    border-radius: 14pt;
+    padding: 30px;
+    margin: 30px;
+}
+#computer #introduce {
+    text-align: left;
+}
+#computer #typingEffect {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 15pt;
+    font-weight: 600;
+    border-top: 2px solid #E6E6DB;
+    color: #CFD8DC;
+}
+#computer .grey {
+    color: #5D7B83;
+}
+#computer .orange {
+    color: #CC6C24;
+}
+#computer .blue {
+    color: #1D90C3;
+}
+#computer .white {
+    color: #E6E6DB;
+}
+#computer .green {
+    color: #81EC21;
+}
+.green2 {
+    color: #1F8C35;
+}
+#computer .green3 {
+    color: #17C6A3;
+}
+#computer .yellow {
+    color: #F3EC79;
+}
