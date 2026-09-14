@@ -7,6 +7,26 @@ function History() {
                 <h2 className="mb-5">CARRER</h2>
                 <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="flex-grow-1">
+                        <h3 className="mb-3">대한에프에이시스템</h3>
+                        <div className="flex-grow-1">
+                            <div className="subheading">모트라스 아산2공장 LOT 추적 관련 PLT&BOX 바코드 리딩 개발</div>
+                            <div class="subheading text-primary fs-5 mb-0">C#, MSSQL, .NET, WinForm</div>
+                            <div class="subheading text-secondary fs-6 mb-3">2026.08 - 2026.09</div>
+                            <p>
+                                [인력구성]<br />
+                                풀스택 개발자 1명<br />
+                                <br />
+                                [핵심 기능]<br />
+                                - PLT&BOX 바코드 테이블 설계<br />
+                                - PLT&BOX 바코드 관리 웹 페이지 추가<br />
+                                - PLT&BOX 바코드 스캔 CS(WinForm) 로직 추가<br />
+                            </p>
+                        </div>
+                    </div>
+                    <div className="flex-shrink-0"><span className="text-primary">2026.07 ~ 재직중</span></div>
+                </div>
+                <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div className="flex-grow-1">
                         <h3 className="mb-0">한국기술신용평가</h3>
                         <div class="subheading text-primary mb-3">C#, Blazor, MSSQL, GraphQL, Kendo UI, Anychart</div>
                         <div className="subheading">신규 비즈니스 확장 및 외부 시스템 연동</div>
@@ -44,7 +64,7 @@ function History() {
                             - 보고서 디자인 개선
                         </p>
                     </div>
-                    <div className="flex-shrink-0"><span className="text-primary">2024.06 ~ 재직중</span></div>
+                    <div className="flex-shrink-0"><span className="text-primary">2024.06 ~ 2026.07</span></div>
                 </div>
                 <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="flex-grow-1">
